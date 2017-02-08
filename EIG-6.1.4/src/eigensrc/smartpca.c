@@ -150,7 +150,7 @@ SNP **snpmarkers;
 int numsnps, numindivs;
 int numeigs = 10;  /// default
 int markerscore = NO;
-int maxpops = 100;
+int maxpops = 1000;
 long seed = 0;
 int chisqmode = NO;  // approx p-value better to use F-stat
 int missingmode = NO;
